@@ -6,8 +6,6 @@ if (isset($_GET['secret'])) {
 }
 echo 'NoEnd';
 
-function NewFunction() {
-	die('No-Futur');
-}
+var newVar	= '33';
 
 ?>
