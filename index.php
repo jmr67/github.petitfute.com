@@ -7,5 +7,11 @@ if (isset($_GET['secret'])) {
 echo 'NoEnd';
 
 var newVar	= '33';
+echo 'trésor';
+
+function NewFunction() {
+	die('No-Futur');
+}
+
 
 ?>
